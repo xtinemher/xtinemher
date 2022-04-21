@@ -1,6 +1,6 @@
 - 👋 Hello, I'm Christine!
-- 👀 I’m interested in user experience and user interface design.
-- 🌱 I’m currently working on a responsive website for a previous project: prototyped redesigned non-profit website.
+- 👀 I’m interested in UX/UI design and dabbling in software engineering. 
+- 🌱 I’m currently working on a responsive website for a previous project: prototyped redesigned non-profit website. 
 - 📫 Reach me via email: her.christinem@gmail.com
 
 <!---
